@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Sean! <br/><a href="https://github.com/SeanLII508">Programmer</a>, <a href="https://www.linkedin.com/in/seanlewisii/">Cybersecurity Professional</a>, <a href="https://github.com/SeanLII508CYBERSec">Entrepenuer</a> <a href="https://www.linkedin.com/in/seanlewisii/" > </h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+<h2>🖥️ Cybersecurity Projects:</h2>
+
+
+<h2>📜 Certifications:</h2>
+
 
 <!--
-**SeanLII508/SeanLII508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
