@@ -1,16 +1,16 @@
-# Hi there, I’m Sean 👋
+# Hi there, I’m Sean 👋🏾
 
 I’m a cybersecurity engineer and a builder. I like turning problems into secure, working systems. I’m exploring privacy-minded AI that makes internal knowledge actually useful.
 
-👨‍💻 Day job: ship reliable, compliant, security-first solutions; reduce toil with sensible automation
+👨🏾‍💻 Day job: ship reliable, compliant, security-first solutions; reduce toil with sensible automation
 
 🛠️ Builder: founder of EcommBeam (early)—local-/tenant-first AI that helps teams get answers and weekly clarity from their own docs
 
-🤝 I care about measurable impact, clean handoffs, and security that enables growth
+🤝🏾 I care about measurable impact, clean handoffs, and security that enables growth
 
  Outside of working, I enjoy traveling, sports, and meeting cool people
 
-## What I’m into
+## 💻 What I’m into
 
 Cyber + software + ops glue (detections, dashboards, automation)
 
@@ -18,7 +18,7 @@ Local-first / private-tenant AI, workflow “nodes,” and lightweight connector
 
 Clean docs, small tools, and boring automation that teams actually use
 
-## 2025 goals
+## 🌟 2025 goals
 
 Build & iterate (privately) on EcommBeam
 
@@ -26,7 +26,7 @@ Keep security fundamentals sharp
 
 Stay healthy, ship consistently, and help others do the same
 
-## Connect with me
+## 🔗 Connect with me
 
 🌐 Website: <a href="https://www.ecommbeam.com">EcommBeam Marketing</a>
 
@@ -38,7 +38,7 @@ Stay healthy, ship consistently, and help others do the same
 
 ---
 
-## Recent / featured
+## 📰 Recent / featured
 
 EcommBeam one-pager (coming soon)
 
@@ -46,7 +46,7 @@ Notes on practical security automation (coming soon)
 
 My Obsidian Md template (My 2nd brain) (coming soon)
 
-## Tools I enjoy
+## 🛠️ Tools I enjoy
 
 Python • Bash • Splunk • Docker • Kubernetes (light) • GitHub Actions • NIST RMF/800-53 • secure-by-default patterns
 
